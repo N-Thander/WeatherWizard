@@ -1,6 +1,6 @@
 # WeatherWizard
 
-Welcome to WeatherApp, a sleek and intuitive weather application built with Java Swing! With WeatherApp, you can effortlessly check the latest weather conditions for any location around the world right from your desktop.
+Welcome to WeatherWizard, a simple weather application built with Java Swing! With WeatherApp, you can effortlessly check the latest weather conditions for any location around the world right from your desktop.
 
 ## Features
 
