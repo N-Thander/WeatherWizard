@@ -10,10 +10,9 @@ Welcome to WeatherApp, a sleek and intuitive weather application built with Java
 ## Screenshots
 
 ![Screenshot 1](screenshots/screenshot1.png)
-*Caption: WeatherApp's sleek and intuitive interface allows you to quickly check the weather for any location.*
+
 
 ![Screenshot 2](screenshots/screenshot2.png)
-*Caption: Search for weather updates by entering the name of your desired location.*
 
 ## Installation
 
